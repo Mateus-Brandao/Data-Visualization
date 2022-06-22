@@ -6,3 +6,4 @@
 2 - O Dashboard de Ecommerce foi feito utilizando o MS Power BI, e nele foram utilizados diversos filtros e métricas para torna-lo um relatório interativo, onde você pode alterar os gráficos e cartões clicando no tipo de pagamento utilizado. Lembrando a versão publicada aqui é apenas um PDF, a versão real pode ser consultada em:
 https://app.powerbi.com/view?r=eyJrIjoiNmNlYjU3MGYtNDhiZi00NjA1LWJiMTktNTAzZGRmY2U5Nzk4IiwidCI6IjAzZTM0ZjI2LWFjMjItNGVlNy1hMDkzLTlhZTNhM2I2ZmIxZCJ9
 
+3 - O Relatório da Loja de Pets foi feito utilizando o MS Power BI. Nele foram utilizados diversos filtros e métricas para torna-lo o mais interativo possível, onde todos os cartões e tabelas são alterados pelos filtros. Lembrando que a versão publicada aqui é apenas um PDF, a versão real pode ser consultada em: https://app.powerbi.com/view?r=eyJrIjoiZDNkMTk0MzQtYzU4YS00MTczLTljZDYtZDEwNWFiZThhN2FkIiwidCI6IjAzZTM0ZjI2LWFjMjItNGVlNy1hMDkzLTlhZTNhM2I2ZmIxZCJ9
